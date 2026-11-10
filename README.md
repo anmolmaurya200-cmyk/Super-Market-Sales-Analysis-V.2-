@@ -41,6 +41,7 @@ Management had sales data only as a raw dataset, which made it hard to identify 
 - The dataset has no currency or date field, so sales are shown as plain numbers and no time trend is possible.
 
 ## Workbook Structure
+
 | Sheet | Purpose |
 |---|---|
 | Dashboard | Management view with filters, KPIs, charts, takeaways |
