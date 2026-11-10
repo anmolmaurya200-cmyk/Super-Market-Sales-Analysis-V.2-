@@ -54,7 +54,7 @@ Microsoft Excel: formulas (SUMIFS, SUMPRODUCT, QUARTILE, CORREL), data validatio
 
 ## Files
 - - [Supermarket_Sales_Analysis_Dashboard(V.2).xlsx](Supermarket_Sales_Analysis_Dashboard(V.2).xlsx)
-- `Sapphire IQ Supermarket Sales Analysis(V.2) (1).pdf`: the project brief
+- [Project_Brief_Sapphire_IQ.pdf](Project_Brief_Sapphire_IQ.pdf): the original project brief from Sapphire IQ
 
 ## Author
 **Anmol Kumar**, Data Analyst
