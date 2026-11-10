@@ -53,7 +53,7 @@ Management had sales data only as a raw dataset, which made it hard to identify 
 Microsoft Excel: formulas (SUMIFS, SUMPRODUCT, QUARTILE, CORREL), data validation dropdowns, and charts.
 
 ## Files
-- `Supermarket_Sales_Analysis_Dashboard(V.2).xlsx`: the dashboard workbook
+- - [Supermarket_Sales_Analysis_Dashboard(V.2).xlsx](Supermarket_Sales_Analysis_Dashboard(V.2).xlsx)
 - `Sapphire IQ Supermarket Sales Analysis(V.2) (1).pdf`: the project brief
 
 ## Author
